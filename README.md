@@ -45,5 +45,7 @@ Install the Data:
     docker exec -it postgres-demo psql -d conference_app -f insert_data.sql -U postgres
 
 Download "Postico" Database Client from below url:
+
 It'll help in looking at the tables and the contents in UI.
+
     https://eggerapps.at/postico/
